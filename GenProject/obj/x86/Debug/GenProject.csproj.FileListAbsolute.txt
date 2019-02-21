@@ -1,0 +1,176 @@
+G:\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
+G:\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Диплом программы\LastVersion Full\GenProject\GenProject\bin\Debug\GenProject.exe
+G:\Диплом программы\LastVersion Full\GenProject\GenProject\bin\Debug\GenProject.pdb
+G:\Диплом программы\LastVersion Full\GenProject\GenProject\bin\Debug\OmegaMathEngine.dll
+G:\Диплом программы\LastVersion Full\GenProject\GenProject\bin\Debug\ParetoSeparator.dll
+G:\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.exe
+G:\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.pdb
+G:\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.MyForm.resources
+G:\Диплом программы\LastVersion Full\GenProject\GenProject\bin\Debug\Microsoft.Vsa.dll
+C:\Documents and Settings\Admin\Мои документы\Загрузки\Диплом программы~\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.exe
+C:\Documents and Settings\Admin\Мои документы\Загрузки\Диплом программы~\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.pdb
+C:\Documents and Settings\Admin\Мои документы\Загрузки\Диплом программы~\Диплом программы\LastVersion Full\GenProject\GenProject\bin\Debug\GenProject.exe
+C:\Documents and Settings\Admin\Мои документы\Загрузки\Диплом программы~\Диплом программы\LastVersion Full\GenProject\GenProject\bin\Debug\GenProject.pdb
+C:\Documents and Settings\Admin\Мои документы\Загрузки\Диплом программы~\Диплом программы\LastVersion Full\GenProject\GenProject\bin\Debug\OmegaMathEngine.dll
+C:\Documents and Settings\Admin\Мои документы\Загрузки\Диплом программы~\Диплом программы\LastVersion Full\GenProject\GenProject\bin\Debug\ParetoSeparator.dll
+C:\Documents and Settings\Admin\Мои документы\Загрузки\Диплом программы~\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Загрузки\Диплом программы~\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.MyForm.resources
+C:\Documents and Settings\Admin\Мои документы\Загрузки\Диплом программы~\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Загрузки\Диплом программы~\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Мои документы\Загрузки\Диплом программы~\Диплом программы\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.exe
+G:\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.pdb
+G:\LastVersion Full\GenProject\GenProject\bin\Debug\GenProject.exe
+G:\LastVersion Full\GenProject\GenProject\bin\Debug\GenProject.pdb
+G:\LastVersion Full\GenProject\GenProject\bin\Debug\Microsoft.Vsa.dll
+G:\LastVersion Full\GenProject\GenProject\bin\Debug\OmegaMathEngine.dll
+G:\LastVersion Full\GenProject\GenProject\bin\Debug\ParetoSeparator.dll
+G:\LastVersion Full\GenProject\GenProject\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.MyForm.resources
+G:\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
+G:\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\флэшка\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.exe
+E:\флэшка\LastVersion Full\GenProject\GenProject\obj\x86\Debug\GenProject.pdb
+E:\Научная работа\GenProject\GenProject\obj\x86\Debug\GenProject.exe
+E:\Научная работа\GenProject\GenProject\obj\x86\Debug\GenProject.pdb
+E:\Научная работа\GenProject\GenProject\bin\Debug\GenProject.exe
+E:\Научная работа\GenProject\GenProject\bin\Debug\GenProject.pdb
+E:\Научная работа\GenProject\GenProject\bin\Debug\OmegaMathEngine.dll
+E:\Научная работа\GenProject\GenProject\bin\Debug\ParetoSeparator.dll
+E:\Научная работа\GenProject\GenProject\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Научная работа\GenProject\GenProject\obj\x86\Debug\GenProject.MyForm.resources
+E:\Научная работа\GenProject\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
+E:\Научная работа\GenProject\GenProject\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Научная работа\GenProject\GenProject\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Научная работа\GenProject\GenProject\obj\x86\Debug\GenProject.Graph.resources
+I:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.exe
+I:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.pdb
+I:\Научная работа\last\GenProject\bin\Debug\GenProject.exe
+I:\Научная работа\last\GenProject\bin\Debug\GenProject.pdb
+I:\Научная работа\last\GenProject\bin\Debug\Microsoft.Vsa.dll
+I:\Научная работа\last\GenProject\bin\Debug\OmegaMathEngine.dll
+I:\Научная работа\last\GenProject\bin\Debug\ParetoSeparator.dll
+I:\Научная работа\last\GenProject\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.Graph.resources
+I:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.MyForm.resources
+I:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
+I:\Научная работа\last\GenProject\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Научная работа\last\GenProject\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.exe
+K:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.pdb
+K:\Научная работа\last\GenProject\bin\Debug\GenProject.exe
+K:\Научная работа\last\GenProject\bin\Debug\GenProject.pdb
+K:\Научная работа\last\GenProject\bin\Debug\OmegaMathEngine.dll
+K:\Научная работа\last\GenProject\bin\Debug\ParetoSeparator.dll
+K:\Научная работа\last\GenProject\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.Graph.resources
+K:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.MyForm.resources
+K:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
+K:\Научная работа\last\GenProject\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Научная работа\last\GenProject\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Научная работа\last\GenProject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.Graph.resources
+F:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.MyForm.resources
+F:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
+F:\Научная работа\last\GenProject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Научная работа\last\GenProject\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Научная работа\last\GenProject\bin\Debug\GenProject.exe
+F:\Научная работа\last\GenProject\bin\Debug\GenProject.pdb
+F:\Научная работа\last\GenProject\bin\Debug\Microsoft.Vsa.dll
+F:\Научная работа\last\GenProject\bin\Debug\OmegaMathEngine.dll
+F:\Научная работа\last\GenProject\bin\Debug\ParetoSeparator.dll
+F:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.exe
+F:\Научная работа\last\GenProject\obj\x86\Debug\GenProject.pdb
+F:\Научная работа\last\GenProject\bin\Debug\Ciloci.Flee.dll
+F:\Научная работа\last2\GenProject\obj\x86\Debug\GenProject.exe
+F:\Научная работа\last2\GenProject\obj\x86\Debug\GenProject.pdb
+F:\Научная работа\last2\GenProject\bin\Debug\GenProject.exe
+F:\Научная работа\last2\GenProject\bin\Debug\GenProject.pdb
+F:\Научная работа\last2\GenProject\bin\Debug\Ciloci.Flee.dll
+F:\Научная работа\last2\GenProject\bin\Debug\Microsoft.Vsa.dll
+F:\Научная работа\last2\GenProject\bin\Debug\OmegaMathEngine.dll
+F:\Научная работа\last2\GenProject\bin\Debug\ParetoSeparator.dll
+F:\Научная работа\last2\GenProject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Научная работа\last2\GenProject\obj\x86\Debug\GenProject.Graph.resources
+F:\Научная работа\last2\GenProject\obj\x86\Debug\GenProject.MyForm.resources
+F:\Научная работа\last2\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
+F:\Научная работа\last2\GenProject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Научная работа\last2\GenProject\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Научная работа\1 семестр\2010\GenProject\obj\x86\Debug\GenProject.exe
+G:\Научная работа\1 семестр\2010\GenProject\obj\x86\Debug\GenProject.pdb
+F:\Научная работа\1 семестр\2010\GenProject\obj\x86\Debug\GenProject.exe
+F:\Научная работа\1 семестр\2010\GenProject\obj\x86\Debug\GenProject.pdb
+F:\Научная работа\1 семестр\2010\GenProject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Научная работа\1 семестр\2010\GenProject\obj\x86\Debug\GenProject.Graph.resources
+F:\Научная работа\1 семестр\2010\GenProject\obj\x86\Debug\GenProject.MyForm.resources
+F:\Научная работа\1 семестр\2010\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
+F:\Научная работа\1 семестр\2010\GenProject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Научная работа\1 семестр\2010\GenProject\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Научная работа\1 семестр\2010\GenProject\bin\Debug\GenProject.exe
+F:\Научная работа\1 семестр\2010\GenProject\bin\Debug\GenProject.pdb
+F:\Научная работа\1 семестр\2010\GenProject\bin\Debug\Ciloci.Flee.dll
+F:\Научная работа\1 семестр\2010\GenProject\bin\Debug\Microsoft.Vsa.dll
+F:\Научная работа\1 семестр\2010\GenProject\bin\Debug\OmegaMathEngine.dll
+F:\Научная работа\1 семестр\2010\GenProject\bin\Debug\ParetoSeparator.dll
+I:\Научная работа\2 семестр\2012\GenProject\obj\x86\Debug\GenProject.exe
+I:\Научная работа\2 семестр\2012\GenProject\obj\x86\Debug\GenProject.pdb
+I:\Научная работа\2 семестр\2012\GenProject\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Научная работа\2 семестр\2012\GenProject\obj\x86\Debug\GenProject.Graph.resources
+I:\Научная работа\2 семестр\2012\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
+I:\Научная работа\2 семестр\2012\GenProject\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Научная работа\2 семестр\2012\GenProject\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Научная работа\2 семестр\2012\GenProject\bin\Debug\GenProject.exe
+I:\Научная работа\2 семестр\2012\GenProject\bin\Debug\GenProject.pdb
+I:\Научная работа\2 семестр\2012\GenProject\bin\Debug\Ciloci.Flee.dll
+I:\Научная работа\2 семестр\2012\GenProject\bin\Debug\Microsoft.Vsa.dll
+I:\Научная работа\2 семестр\2012\GenProject\bin\Debug\OmegaMathEngine.dll
+I:\Научная работа\2 семестр\2012\GenProject\bin\Debug\ParetoSeparator.dll
+I:\Научная работа\2 семестр\2012\GenProject\obj\x86\Debug\GenProject.MainForm.resources
+D:\флэха\Научная работа\2 семестр\2012\GenProject\obj\x86\Debug\GenProject.exe
+D:\флэха\Научная работа\2 семестр\2012\GenProject\obj\x86\Debug\GenProject.pdb
+H:\2012\GenProject\obj\x86\Debug\GenProject.exe
+H:\2012\GenProject\obj\x86\Debug\GenProject.pdb
+F:\2012\GenProject\obj\x86\Debug\GenProject.exe
+F:\2012\GenProject\obj\x86\Debug\GenProject.pdb
+F:\2012\GenProject\bin\Debug\GenProject.exe
+F:\2012\GenProject\bin\Debug\GenProject.pdb
+F:\2012\GenProject\bin\Debug\Ciloci.Flee.dll
+F:\2012\GenProject\bin\Debug\Microsoft.Vsa.dll
+F:\2012\GenProject\bin\Debug\OmegaMathEngine.dll
+F:\2012\GenProject\bin\Debug\ParetoSeparator.dll
+F:\2012\GenProject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2012\GenProject\obj\x86\Debug\GenProject.Graph.resources
+F:\2012\GenProject\obj\x86\Debug\GenProject.MainForm.resources
+F:\2012\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
+F:\2012\GenProject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\2012\GenProject\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Документы\Старое\Диплом\GeneticProject\GenProject\obj\x86\Debug\GenProject.exe
+G:\Документы\Старое\Диплом\GeneticProject\GenProject\obj\x86\Debug\GenProject.pdb
+G:\Документы\Старое\Диплом\GeneticProject\GenProject\bin\Debug\GenProject.exe
+G:\Документы\Старое\Диплом\GeneticProject\GenProject\bin\Debug\GenProject.pdb
+G:\Документы\Старое\Диплом\GeneticProject\GenProject\bin\Debug\Ciloci.Flee.dll
+G:\Документы\Старое\Диплом\GeneticProject\GenProject\bin\Debug\Microsoft.Vsa.dll
+G:\Документы\Старое\Диплом\GeneticProject\GenProject\bin\Debug\OmegaMathEngine.dll
+G:\Документы\Старое\Диплом\GeneticProject\GenProject\bin\Debug\ParetoSeparator.dll
+G:\Документы\Старое\Диплом\GeneticProject\GenProject\obj\x86\Debug\GenProject.csprojResolveAssemblyReference.cache
+G:\Документы\Старое\Диплом\GeneticProject\GenProject\obj\x86\Debug\GenProject.Graph.resources
+G:\Документы\Старое\Диплом\GeneticProject\GenProject\obj\x86\Debug\GenProject.MainForm.resources
+G:\Документы\Старое\Диплом\GeneticProject\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
+G:\Документы\Старое\Диплом\GeneticProject\GenProject\obj\x86\Debug\GenProject.csproj.GenerateResource.Cache
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\obj\x86\Debug\GenProject.exe
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\obj\x86\Debug\GenProject.pdb
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\bin\Debug\GenProject.exe
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\bin\Debug\GenProject.pdb
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\bin\Debug\Ciloci.Flee.dll
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\bin\Debug\Microsoft.Vsa.dll
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\bin\Debug\OmegaMathEngine.dll
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\bin\Debug\ParetoSeparator.dll
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\obj\x86\Debug\GenProject.csprojResolveAssemblyReference.cache
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\obj\x86\Debug\GenProject.Graph.resources
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\obj\x86\Debug\GenProject.MainForm.resources
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\obj\x86\Debug\GenProject.csproj.GenerateResource.Cache
