@@ -9,7 +9,7 @@ The idea of the application is to provide a user with a comprehensive friendly i
 5) conditions themselves
 
 First, 'Main data' tab is filled, then after pressing 'Ready' button one might see the corresponding number of textboxes in 'Target functions' and 'Conditions' tabs. 
-Some adjustments related to the genetic algorithms are then defined (in 'Additional data' tab). When everything is set up, one should press 'Run calculation' button and then wait for the application to process the results.
+Some adjustments (genetic specifications) are then defined (in 'Additional data' tab). When everything is set up, one should press 'Run calculation' button and then wait for the application to process the results.
 
 In this particular example we have
 * 2 variables X[0] and X[1]
