@@ -174,3 +174,5 @@ C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject
 C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\obj\x86\Debug\GenProject.MainForm.resources
 C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\obj\x86\Debug\GenProject.Properties.Resources.resources
 C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticProject\GenProject\obj\x86\Debug\GenProject.csproj.GenerateResource.Cache
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticOptimization\GeneticOptimization\GenProject\obj\x86\Debug\GenProject.exe
+C:\Users\olgaa\Dropbox\Projects\Official projects\School projects\GeneticOptimization\GeneticOptimization\GenProject\obj\x86\Debug\GenProject.pdb
