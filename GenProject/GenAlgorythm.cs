@@ -68,7 +68,7 @@ namespace GenProject
                         {
                             s = RNG.Next(9);
                             koord[i, j] = RNG.Next(maxvalue);
-                            koord[i, j] += eps * s;
+                            //koord[i, j] += eps * s;
                         }
 
                     }
@@ -251,6 +251,9 @@ namespace GenProject
                     case ">": if (!(l > r)) res = false; break;
                     case "<": if (!(l < r)) res = false; break;
                 }
+
+                for (int j = 0; j < m; j++)
+                    if (koord[nom, j] > maxvalue) res = false; 
             }
 
 
