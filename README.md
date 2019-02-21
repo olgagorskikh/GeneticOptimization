@@ -18,15 +18,15 @@ In this particular example we have
 * First condition X[0]>=0
 * Second condition X[1]>=0
 
-![](images/1.PNG)
+![](images/a.PNG)
 
-When the results are ready, one might see them in a 'Results' tab. Here, for example, one of the point from the found Pareto Frontier is (2706,3128) and the corresponding target functions values for it are (5834,8464368).
+When the results are ready, one might see them in a 'Results' tab. Here, for example, one of the point from the found Pareto Frontier is (21,30) and the corresponding target functions values for it are (51,630).
 
-![](images/2.PNG)
+![](images/b.PNG)
 
 Furthermore, the application provides a user with an option to view the 2-D graphs of the found Pareto Frontier. 
 
-![](images/3.PNG)
+![](images/c.PNG)
 
 
 NOTE! This application was built in educational purposes, which is why many of the functions are additionally implemented, although they are available through general packages (like sorting arrays etc)
